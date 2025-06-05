@@ -77,7 +77,7 @@ This type of dashboard can help:
 
 ## Preview
 
-*(![Screenshot (30)](https://github.com/user-attachments/assets/49a0e0a0-9bcd-41aa-86db-eb2f3232455e)
+*(![Screenshot 2025-06-05 141219](https://github.com/user-attachments/assets/5b68ba5c-35e4-4772-88b9-456858a061a0)
 )*
 
 ---
